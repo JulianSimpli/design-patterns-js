@@ -1,5 +1,6 @@
 // Factory
 // Design Pattern for similar objects creation
+// Example
 
 // Factory class
 class HtmlBuilder {
