@@ -1,6 +1,6 @@
 // Mediator
 // An intermediary that communicates different types of objects
-// Example: Auction
+// Example: Auction 
 
 class Buyer {
     constructor(name) {
