@@ -1,9 +1,9 @@
-// Factory
+// Factory - similar to Builder
 // Design Pattern for similar objects creation
 // Example
 
 // Factory class
-class HtmlBuilder {
+class HtmlFactory {
     constructor() {}
 
     createElement(text, type) {
